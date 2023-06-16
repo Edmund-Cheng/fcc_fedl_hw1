@@ -1,7 +1,6 @@
 # fcc_fedl_hw1
-freeCodeCamp Front End Development Libraries homework 1
+freeCodeCamp Front End Development Libraries - Build a Random Quote Machine
 
-Build a Random Quote Machine
 Objective: Build an app that is functionally similar to this: https://random-quote-machine.freecodecamp.rocks/.
 
 Fulfill the below user stories and get all of the tests to pass. Use whichever libraries or APIs you need. Give it your own personal style.
